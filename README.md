@@ -10,3 +10,10 @@ I Love Animals merupakan permainan yang berkonsep untuk menyampaikan rasa cinta 
 ![icon](https://user-images.githubusercontent.com/88881360/130023676-b2925d91-1b6f-44ed-af65-868660abb81a.png)
 
 ![player](https://user-images.githubusercontent.com/88881360/130023903-ab8c2680-e502-4acf-820e-338347a90f42.png)
+
+Audio
+https://elements.envato.com/female-child-i-love-you-8BLMWFP?utm_source=mixkit&utm_medium=referral&utm_campaign=elements_mixkit_cs_sfx_search_no_results&_ga=2.143239221.1449314951.1629334054-1916622162.1629334054
+
+https://elements.envato.com/laser-hit-S2KVCQ4
+
+https://elements.envato.com/game-over-a-UC3CKCR

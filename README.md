@@ -6,3 +6,5 @@ I Love Animals merupakan permainan yang berkonsep untuk menyampaikan rasa cinta 
 ![bullet_love](https://user-images.githubusercontent.com/88881360/130023294-835a9090-61c7-4f84-9d13-94f5e63cecb7.png)
 
 ![enemy_gajah](https://user-images.githubusercontent.com/88881360/130023459-2a0f9f42-9e99-4133-8b18-aa97bd675cee.png)
+
+![icon](https://user-images.githubusercontent.com/88881360/130023676-b2925d91-1b6f-44ed-af65-868660abb81a.png)

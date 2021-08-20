@@ -128,8 +128,8 @@ while running:
     
     if playerX <= 0: #set player batas border layar 
         playerX = 0
-    elif playerX >= 710: #titik lebar koordinat x pada layar adalah 800
-        playerX = 710
+    elif playerX >= 672: #titik lebar koordinat x pada layar adalah 800
+        playerX = 672
 
     #posisi enemy move
     for i in range(jumlah_enemy): #jumlah enemy yang keluar [i]
@@ -145,7 +145,7 @@ while running:
         if enemyX[i] <= 0: #set player batas border layar 
             enemyX_change[i] = 4
             enemyY[i] += enemyY_change[i] #posisi random enemy dikoordinat y
-        elif enemyX[i] >= 710: #titik lebar koordinat x pada layar adalah 800
+        elif enemyX[i] >= 672: #titik lebar koordinat x pada layar adalah 800
             enemyX_change[i] = -4
             enemyY[i] += enemyY_change[i] #posisi random enemy dikoordinat y
         
@@ -158,7 +158,7 @@ while running:
             bulletY = 480
             bullet_state = "siap"
             jumlah_score += 1 #set score
-            enemyX[i] = random.randint(0, 735) #posisi #random
+            enemyX[i] = random.randint(0, 672) #posisi #random
             enemyY[i] = random.randint(50, 150) 
         
         enemy(enemyX[i], enemyY[i], i)
